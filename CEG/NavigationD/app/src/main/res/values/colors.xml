@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="active_dots">#fffafa</color>
+    <color name="Black">#000</color>
+    <color name="inactive_dots">#83878b</color>
+
+        <color name="colorPrimary">#e75053</color>
+        <color name="colorPrimaryDark">#f26264</color>
+        <color name="colorAccent">#FF4081</color>
+        <color name="text_color">#f54682b4</color>
+    <color name="white">#fff</color>
+
+
+</resources>

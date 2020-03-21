@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mahi.navigationd">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ceg_logo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ceg_logo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".Splash_screen"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ignou_activity"
+            android:label="course"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".courseall"
+            android:label="course"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".course_detail"
+
+            android:parentActivityName=".courseall" />
+        <activity android:name=".gallary"
+            android:label="Gallery"
+            android:parentActivityName=".MainActivity"></activity>
+    </application>
+
+</manifest>

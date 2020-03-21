@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">C.E.G.</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Center for Electronic Governance</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_home">homeActivity</string>
+
+    <string name="title_activity_courses">All Courses</string>
+    <string name="cpp_activity_name">C++ Programming Lnaguage</string>
+    <string name="title_activity_gallery">Gallery</string>
+    <dimen name="text_size">18sp</dimen>
+    <dimen name="image_text_size">25sp</dimen>
+
+    <string name="cpp_text">
+
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+        "
+        "seams, divides space, and indicates moving parts.\n\n"
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+
+
+
+
+    </string>
+    <string name="about_course_cpp">
+        WELCOME TO CEG
+
+        1.cpp is a object oriented language.\n
+        2.seams, divides space, and indicates moving parts.\n
+        3.technologically advanced and open to imagination and magic.
+        4.technologically advanced and open to imagination and magic.
+        5.technologically advanced and open to imagination and magic.
+        5.jfjnfjbgvjbfbhjbgevbfvkjvb.
+    </string>
+
+    <string name="about_course_cpp1">
+        WELCOME TO CEG
+
+        roshan
+    </string>
+    <string name="prerequesite_android">
+       Basic knowledge of Java programming and androids. Beginners are also welcome.
+    </string>
+    <string name="about_android">
+        Android Development is the process by which new applications are created for
+        devices running the Android
+        operating system. Officially, apps can be written using Java, C++ using the Android studio.
+    </string>
+    <string name="android_include">
+         Duration: 60 Days
+         Course fee: 7000.00 Rs.
+    </string>
+    <string name="android_description">
+        Java concepts Basic, Application Structure (in detail), Emulator and Intents,
+        Basic UI design, Styles and Themes, Dialog boxes, Images and media, Composite, Server Connection,
+        Fragments, Google Maps, Location based Services, Accessing Phone services etc.
+    </string>
+
+    <string name="android_what_i_learn">
+        Students will learn skills for creating and deploying Android applications,
+        with particular emphasis on software engineering topics including
+        software architecture, software process, usability, and deployment. You’ll learn how to create an Android project with Android Studio and run a debuggable version of the app.
+        You'll also learn some Android architecture and the key principles underlying its design.
+
+    </string>
+    <string name="prerequesite_ml">
+       Basic knowledge of  programming and androids. Beginners are also welcome.
+    </string>
+    <string name="about_ml">
+        This course provides a broad introduction to machine learning,
+        data mining, and statistical pattern recognition. Topics include:\n
+        (i) Supervised learning \n
+        (ii) Unsupervised learning\n
+        (iii) Best practices in machine learning\n
+    </string>
+    <string name="ml_include">
+         Duration: 60 Days\n
+         Course fee: 11000.00 Rs.\n
+         Live project:Yes\n
+    </string>
+    <string name="ml_description">
+        Machine learning is a subset of artificial intelligence in the field of computer science that often
+        uses statistical techniques to give computers the ability to "learn"
+        progressively improve performance on a specific task with data, without being explicitly programme.
+    </string>
+
+    <string name="ml_what_i_learn">
+        Through this highly rigorous and selective PG Diploma program we will help you to learn:
+      Learn Classification Algorithms, Deep Learning, NLP, Reinforcement Learning and Graph Models
+       Create intelligent solutions such as Chatbots, Smart Games and Image Classifiers
+
+    </string>
+
+
+
+</resources>

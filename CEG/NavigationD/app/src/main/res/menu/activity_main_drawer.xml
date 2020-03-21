@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:iconTint="@color/colorPrimary"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_latest_update"
+            android:icon="@drawable/ic_update_black_24dp"
+            android:iconTint="@color/colorPrimary"
+            android:title="Latest Updates" />
+        <item
+            android:id="@+id/nav_courses"
+            android:icon="@drawable/ic_courses_black_24dp"
+            android:iconTint="@color/colorPrimary"
+
+            android:title="Courses" />
+        <item
+            android:id="@+id/nav_registration"
+            android:icon="@drawable/ic_registration_black_24dp"
+            android:iconTint="@color/colorPrimary"
+            android:title="Registration" />
+        <item
+            android:id="@+id/nav_ignou"
+            android:icon="@drawable/ic_ignu_black_24dp"
+            android:iconTint="@color/colorPrimary"
+            android:title="IGNOU" />
+        <item
+            android:id="@+id/nav_traing_programs"
+            android:icon="@drawable/ic_programs_black_24dp"
+            android:iconTint="@color/colorPrimary"
+            android:title="Traing Programs" />
+        <item
+            android:id="@+id/nav_skill_development_centre"
+            android:icon="@drawable/ic_developer_mode_black_24dp"
+            android:iconTint="@color/colorPrimary"
+            android:title="Skill Development Centre" />
+
+
+
+        <item
+            android:id="@+id/nav_maps"
+            android:icon="@drawable/ic_add_location_black_24dp"
+            android:iconTint="@color/colorPrimary"
+            android:title="Maps" />
+
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_gallary_photo_black_24dp"
+            android:iconTint="@color/colorPrimary"
+            android:title="Gallery" />
+        <item
+            android:id="@+id/nav_about_us"
+            android:icon="@drawable/ic_contact_mail_black_24dp"
+            android:iconTint="@color/colorPrimary"
+            android:title="About us" />
+
+
+
+        <item
+            android:id="@+id/nav_queries"
+            android:icon="@drawable/ic_question_answer_black_24dp"
+            android:iconTint="@color/colorPrimary"
+            android:title="Queries" />
+    </group>
+
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+
+        </menu>
+    </item>
+
+</menu>
