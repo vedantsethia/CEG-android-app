@@ -1,0 +1,322 @@
+<resources>
+    <string name="app_name">CEG</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title_activity_main2">CEG</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="about_course_cpp">
+        <b>COURSE DESCRIPTION</b> \n
+Machine Learning (ML) is coming into its own, with a growing recognition that ML can play a key role in a wide range of critical applications, such as data mining, natural language processing, image recognition, and expert systems. ML provides potential solutions in all these domains and more, and is set to be a pillar of our future civilization.
+\n\n\n
+<b>Requirements</b> \n
+Basic Tools: Mathematics and C Programming and Computer Science Fundamentals.\n \n \n
+<b>What is the target audience?</b>\n
+B.E. /  B.Tech  / M.Tech. / MCA or any IT / Software skilled background candidate may join.\n\n \n
+<b>CURRICULUM</b>\n
+Python for Data Science Introduction\n
+Python, Anaconda and relevant packages installations\n\n\n
+        <b>Why learn Python?</b>\n
+Keywords and identifiers\n
+comments, indentation and statements\n
+Variables and data types in Python\n
+Standard Input and Output\n
+Operators\n
+Control flow: if else\n
+Control flow: while loop\n
+Control flow: for loop\n
+Control flow: break and continue\n
+Python for Data Science: Data Structures\n
+Lists\n
+Tuples\n
+Sets\n
+Dictionary\n
+Strings\n
+Python for Data Science: Functions\n
+Introduction\n
+Functions\n
+Lambda functions\n
+Modules\n
+Packages\n
+File Handling\n
+Exception Handling\n
+Debugging Python\n
+Python for Data Science: Numpy\n
+Numpy Introduction\n
+Numerical operations on Numpy\n
+Python for Data Science: Matplotlib\n
+Getting started with Matplotlib\n
+
+Python for Data Science: Pandas\n
+Getting started with pandas\n
+Data Frame Basics\n
+Key Operations on Data Frames\n
+Statistics Basics\n
+Mean\n
+Mode\n
+Median\n
+Standard Deviation\n
+p-Values\n
+Effect Size\n
+Confidence Interval\n
+Data Pre-processing \n
+Splitting\n
+Missing Value Handling\n
+Categorical Data Handling\n
+Feature Scaling\n
+Supervised Machine Learning \n
+Regression\n
+Decision Tree\n
+Random Forest\n
+Logistic Regression\n
+KNN\n
+Un Supervised Machine Learning\n
+Clustering\n
+KMean\n
+Natural Language Processing \n
+Introduction to Deep Learning and AI\n
+
+    </string>
+
+    <string name="about_course_iot">
+        <b>COURSE DESCRIPTION</b>\n
+The explosive growth of the “Internet of Things” is changing our world and the rapid drop in price for typical IoT components is allowing people to innovate new designs and products. In this course you will learn the importance of IoT in society, the current components of typical IoT devices and trends for the future. The course covers the Arduino, analog and digital sensors, communication protocols. Also includes IoT design considerations, constraints and interfacing between the physical world and your device will also be covered.
+\n
+The course is divided into three phases IoT infrastructure, IoT communication and IoT cloud. We’ll also cover key components of networking to ensure that students understand how to connect their device to the Internet.
+There are lot of industry verticals investing huge amount of money in developing and deploying IoT solutions.
+\n\n
+<b>Requirements</b>\n
+C Programming and Computer Science Fundamentals and Basic Electronics\n\n
+<b>What is the target audience?</b>\n
+B.E. / B.Tech. / MCA / M.Sc. or any IT / Software  experience candidate can join this course.\n\n
+        <b>CURRICULUM</b>\n
+<b>( A) IoT Infrastructure</b>\n
+
+Introduction to IoT \n
+Introduction\n
+History of IoT\n\n
+What is IoT ?\n\n
+Case Study: Cold Chain Problem\n
+
+Getting Started with Arduino\n
+Introduction to Arduino\n
+Installing the Arduino Software and Drivers on a Windows Computers\n
+Installing the Arduino Drivers\n
+Exploring the IDE\n
+Exploring your first sketch: Blink\n
+Troubleshooting for Board and Port
+\n\n
+Electronic Components\n
+Getting started with electronics\n
+Reading Resistors\n
+Understanding circuit diagrams\n
+Using a breadboard\n
+Introducing various components\n
+Exploring the components of an Arduino Uno Board\n\n
+
+Arduino Uno Programming\n
+Writing your First Project\n
+Structure of the Programming Language\n
+Variables in Programming Language\n
+Functions in Programming Language\n
+Lets make the LED glow\n\n
+
+Using Digital Sensors \n
+Introducing various digital inputs\n
+Understanding basic fundamental of digital inputs\n
+Using  Push Button  Digital Sensor\n
+How does PC817 Sensor Works\n
+How does PIR Sensor Works\n
+How does Reed Sensor Works\n
+Challenge 1: Reading from PIR Sensor\n
+Challenge 2:  Reading from Reed Sensor\n
+Challenge 3: Reading from PC817 Digital Sensor\n\n
+
+Using Analog Sensors \n
+Introducing various Analog inputs\n
+Understanding basic fundamental of Analog inputs\n
+Using Analog Sensor Potentiometer\n
+How does Potentiometer Works\n
+How does L35 Temperature Sensor Works\n
+How does LDR Light  Sensor Works\n
+How does DHT11 Works\n\n
+
+    Challenge 1: Reading from LM35 Sensor   \n
+    Challenge 2:  Reading from LDR Sensor \n
+    Challenge 3: Reading from DHT 11 Sensor \n\n
+Using Digital Actuators\n
+Introducing various digital output\n
+Understanding basic fundamental of digital outputs\n
+Using Digital Actuator Piezo Buzzer\n
+How does 4 Digit 7 Segment LED Works\n
+How does Relay Works\n
+Challenge 1: Using 4 Digit 7 Segment LED\n
+Challenge 2: Using Relay to control lights
+\n\n
+Introduction to Pulse-Width-Modulation\n
+Introduction\n
+Exploring fundamentals of PWM\n
+Using basic PWM output\n
+Faking PWM on non-PWM pins\n
+Challenge: Matching PWM and non-PWM LED Brightness\n
+Solution: Matching PWM and non-PWM LED Brightness\n
+Using an RGB LED\n
+Mixing colors on an RGB LED using three analog inputs\n
+Implementing basic servo control\n
+Controlling a servo with an analog input\n
+\n\n
+        <b>( B ) IoT Communication</b> \n
+
+Data Exchange Mechanism  \n
+Introducing to Data Exchange Mechanism\n
+Creating JSON and Understanding it\n
+Understanding how Internet Works\n
+Understanding how HTTP Works\n
+What are REST API and Web Services\n
+Accessing Open Source REST API\n
+Understanding how MQTT Protocol Works\n
+
+Exchanging Data\n
+Exchanging Data using BT HC-05\n
+Exchanging Data using nRF24L01\n
+\n\n
+<b>( C ) IoT Cloud</b> \n
+
+Sending data to Cloud\n
+Sending data to cloud using WiFi ESP 8266\n
+Sending data to cloud using GSM SIM 800\n\n
+
+Sending data to Cloud ( MQTT  120 min )\n
+Sending data to cloud using WiFi ESP 8266\n
+Sending data to cloud using GSM SIM 800\n
+ Accessing Data from cloud to mobile devices \n
+Introduce the ThingsView App\n
+ThingsBoard App\n
+\n\n
+<b>Case Studies </b>\n
+Mushroom Farming\n
+IoT Enabled Animal Husbandry\n
+Enterprise IoT Reference Model\n\n
+
+<b>( D ) IoT Analytics</b>\n
+
+Introduction to IoT analytics\n
+
+
+
+
+
+
+     </string>
+    <string name="about_course_bg">
+
+
+
+    </string>
+
+
+    <string name="about_us2">
+        <b><center>OUR SKILLS</center></b>\n\n
+-> Trainings provided by experienced and certified faculty.\n
+-> Our Training Programs covers advance technology, features and topics.\n
+-> Class timing is usually convenient for students. Morning and evening batches also available.\n
+-> Training provided on latest configured equipment like switches, Routers, Computers and software.\n
+
+    </string>
+
+
+
+    <string name="about_rsldc">
+<b>Skill Development</b>\n
+Skill development contributes in enhancing individual’s employability, both wage and self-employment and ability to adapt to changing technologies and labour market demands. Training wing of the Department of Employment and Training is functioning with the aim of developing skilled work force through diversified courses to meet the requirement of industries and to equip employment skills in people through the training in different field.
+        </string>
+
+    <string name="about_rsldc2">
+<b><p align="center"><center>SDC: Centre for Electronic Governance, Jaipur
+\n
+Code: ELS-0034-110-002
+\n
+Sector: BFSI and Commerce
+\n
+Course Name: Accounts Assistant Using Tally
+\n
+Basic Qualification: 10th Pass (No regular/ Unemployed)
+\n
+Duration: 600 Hrs (6Hrs*100 Days)
+\n
+Certification by Skill Development, Govt. of India
+\n
+    Certificate equivalent to NCVT</center>
+</p></b>
+
+
+
+    </string>
+
+
+    <string name="about_ignou">
+        <b>IGNOU:</b>\n
+        Center for Electronic Governance, Jaipur is the Program Study Center (PSC-23114) of Indira Gandhi Open University.
+        The Study center is authorized for MCA, BCA, PGDIS, CCITSK and CIT courses.\n
+        \n
+        Time Table:
+        \n
+
+
+
+
+    </string>
+
+    <string name="about_us3">
+        <b>Contact Us:</b>\n\n
+        Centre for Electronic Governance (CEG)\n
+        Govt. R.C. Khaitan Polytechnic Governance Campus. \n
+        Jhalana Doongri, Near RTO Office, Jaipur 302004\n
+        Rajasthan, INDIA\n
+        Contact No.: 0141-2702344\n
+        Email-id: directorceg@gmail.com\n
+        Website: www.ceg.rajasthan.gov.in\n
+
+
+
+    </string>
+
+    <string name="about_placement">
+
+        <b>Rajasthan State Central Placement Cell</b>\n\n
+
+State Level Central Placement Cell (CPC) is working as a Nodal Agency on behalf of Department of Technical Education Govt. of Rajasthan.\n\n
+
+State Level Central Placement Cell works for placement of Engineering, Diploma and Non Technical students of Rajasthan. <b>CPC invites industries to arrange campus recruitments at CEG campus. All information regarding placements including terms and conditions and procedure are given on the website. Students can read and verify him for placement prior to attend the placement.
+    </b>\n
+
+    </string>
+
+    <string name="about_us1">
+        <b><center>About C.E.G.</center></b>\n\n
+Centre for Electronic Governance is an autonomous body of Government of Rajasthan under the department of Technical Education. Foundation stone of CEG was laid down on 8th December 2006 at Khaitan polytechnic College campus, Jaipur. Rajasthan is the second state that is running this program after the highly acclaimed and successful program “Jawahar Knowledge centre” in Andhra Pradesh.
+\n\n
+CEG get recognition in IT Training programs like Big data, Hadoop, AWS Cloud Computing, CCNA Trainings, ASP.NET Training, ASP.NET MVC 5 using Razor, Entity Framework, WCF, PHP, Auto CAD, Red Hat Certification training, C, C++, Linux Training program, Embedded Training programs etc. in Jaipur.CEG is authorized education partner of CISCO, Red HAT, Microsoft, Autodesk. Training programs run at CEG are approved by Rajasthan Technical education. CEG is also working as study Centre of IGNOU for MCA, BCA, CIT, PGDIS and ACISE programs. CEG started software development and Live Project training to give exposure to real-time applications to students.
+\n\n
+CEG also Conduct Summer Training programs for M.Sc., B.Tech, M.Tech and for Diploma students. Our training programs are industrial oriented and syllabus is specially designed to fulfill requirements of industry work. We provide 6 Months MCA Industrial Oriented Training, B.Tech Summer Training, Diploma students training etc.
+\n\n
+CEG has been established with a sole aim to provide an excellent environment for creating industry employable IT professionals by the way of arranging seminars lectures, vocational training, and industry relevant software training. At the same time provides a readymade platform interaction between the industry and the trained workforce.
+\n\n\n
+        <b>Why CEG ?</b>\n
+-> All Training programs are approved by technical education of Rajasthan.
+\n
+-> Well Equipped labs of more then 170 computers with fibre 2 MBPS connectivity.
+\n
+-> Education partner of Microsoft, Auto desk and Cisco etc.
+\n
+
+    </string>
+
+
+    <string name="credits">Vedant Sethia</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
